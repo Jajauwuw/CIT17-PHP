@@ -10,4 +10,6 @@ print "\$x inside function is $x.
 assignx();
 print "\$x outside of function is $x. 
 ";
+
+echo("hello world")
 ?>
